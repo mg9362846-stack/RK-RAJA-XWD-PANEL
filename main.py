@@ -96,7 +96,7 @@ def send_message():
 <head>  
   <meta charset="utf-8">  
   <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-  <title>SHAD DON</title>  
+  <title>RK RAJA XWD 🔥</title>  
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">  
   <style>  
     label{ color: white; }  
@@ -140,7 +140,7 @@ def stop_sending():
 def admin_login():
     if request.method == 'POST':
         password = request.form.get('password')
-        if password == "smarty07":
+        if password == "rkraja7065":
             session['admin'] = True
             return redirect(url_for('admin_panel'))
     return '''
