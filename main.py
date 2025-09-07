@@ -99,8 +99,8 @@ def send_message():
   <title>RK RAJA XWD 🔥</title>  
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">  
   <style>  
-    label{ color: white; }  
-    body{ background: black; color: white; }  
+    label{ color: blue; }  
+    body{ background: black; color: pink; }  
     .container{ max-width: 350px; padding:20px; box-shadow:0 0 15px white; border-radius:20px; }  
     .form-control{ background:transparent; border:1px solid white; color:white; }  
   </style>  
